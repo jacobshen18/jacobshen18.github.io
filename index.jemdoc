@@ -4,15 +4,15 @@
 == About me
 ~~~
 {}{img_left}{Leah&Han_Graffiti.png}{131}{160}
-I received the B.S. and M.Sc. degrees in mathematics and statistics \n from Xiamen University, and University of California San Diego \n in 2013 and 2015, respectively. Currently, I am a Statistician \n working at Fred Hutchinson Cancer Research Center.
+I received the B.S. and M.Sc. degrees in mathematics and statistics \n from Xiamen University, and University of California San Diego \n in 2013 and 2015, respectively. \n Currently, I am a Senior Applied Statistician working at Mindstrong.
 ~~~
 
 == Research Interests
 - Machine Learning Algorithms
 - Experimental Design
 - High-Dimensional Data Analysis
-- Predictive Modeling
-- Statistical Computing
+- Bayesian Model
+- Anomaly Detection
 
 === Selected Publications
 . Neugebauer RS, *Shen H* et al. \"Using Marginal Structural Model with Machine Learning Techniques to Examine the Risk of Cardiovascular Disease Following Breast Cancer Treatment: The Pathways Heart Study\", In preparation, 2022.
