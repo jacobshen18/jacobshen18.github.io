@@ -1,11 +1,16 @@
 # jemdoc: menu{MENU}{index.html}  
 = Jacob (Hanjie) Shen
 
+~~~
+{}{img_left}{Leah&Han_Graffiti.png}{300}{300}
+~~~
+
 == About me
-~~~
-{}{img_left}{Leah&Han_Graffiti.png}{131}{160}
-I received the B.S. and M.Sc. degrees in mathematics and statistics \n from Xiamen University, and University of California San Diego \n in 2013 and 2015, respectively. \n Currently, I am a Senior Applied Statistician working at Mindstrong Health.
-~~~
+I am currently a Senior Applied Statistician working at Mindstrong Health.
+\n
+\n
+I received an B.S. in Mathematics from Xiamen University, M.Sc. in Statistics from University of California San Diego.
+
 
 == Research Interests
 - Machine Learning Algorithms
