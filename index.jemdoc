@@ -1,39 +1,16 @@
 # jemdoc: menu{MENU}{index.html}  
 = Jacob (Hanjie) Shen
 
+== Info
+
 ~~~
-{}{img_left}{Leah&Han_Graffiti.png}{300}{300}
+{}{img_left}{jshen.png}{225}{300}
 ~~~
 
-== About me
-I am currently a Senior Applied Statistician working at SonderMind.
-\n
-\n
-I received a B.S. in Mathematics from Xiamen University, M.Sc. in Statistics from University of California San Diego.
+Currently, I am a Senior Applied Statistician at SonderMind. SonderMind is a digital health company redesigning behavioral health through covered and timely access, increased utilization, and data-validated quality outcomes.
 
 
-== Research Interests
-- Machine Learning Algorithms
-- Experimental Design
-- Longitudinal Data Analysis
-- Bayesian Statistics
-- Anomaly Detection
-
-=== Selected Publications
-. Neugebauer RS, *Shen H* et al. \"Using Marginal Structural Model with Machine Learning Techniques to Examine the Risk of Cardiovascular Disease Following Breast Cancer Treatment: The Pathways Heart Study\", In preparation, 2022.
-. Marín-Chollom AM, Hale C, Koch P, Gaffney AO, Contento I, *Shen H* et al. \"Cognitive Functioning and Health in Hispanic/Latina Breast Cancer Survivors\", Journal of Immigrant and Minority Health, 1-8, 2021.
-. *Shen H*, Jeong JH, Mell LK. \"Proportional Relative Hazards Model for Competing Risks Data\", medRxiv, 2020.
-. Mell LK, *Shen H* et al. \"Nomogram to Predict the Benefit of Intensive Treatment for Locoregionally Advanced Head and Neck Cancer\", Clinical Cancer Research, 25(23), 7078-7088, 2019.
-. Park A, Alabaster A, *Shen H* et al. \"Undertreatment of women with locoregionally advanced head and neck cancer\", Cancer, 125(17), 3033-3039, 2019.
-
-
-[Jacob_Shen_Resume.pdf a brief cv]
-
-=== Goodies 
-[https://www.premierleague.com/ Premier League] \n
-[https://www.padi.com/exploration Open Water Diver] \n
-[https://www.rei.com/blog/camp/22-camp-hacks-from-rei-experts Camping]
-
+Previously, I worked for Fred Hutchinson Cancer Center as a Senior Statistician, and UC San Diego Health as a Statistician/Biostatistics Manager.
 
 === Contact
 Email: jacobshen18@gmail.com
