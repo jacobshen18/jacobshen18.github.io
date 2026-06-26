@@ -27,8 +27,7 @@ main {
 h1,
 h2,
 p,
-ul,
-table {
+ul {
   margin-top: 0;
 }
 
@@ -75,30 +74,6 @@ a:hover {
   width: 150px;
   height: 150px;
   object-fit: cover;
-}
-
-ul {
-  padding-left: 24px;
-}
-
-li {
-  margin-bottom: 12px;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-td {
-  padding: 0 0 12px;
-  vertical-align: top;
-}
-
-td:first-child {
-  width: 96px;
-  color: var(--muted);
-  white-space: nowrap;
 }
 
 footer {
