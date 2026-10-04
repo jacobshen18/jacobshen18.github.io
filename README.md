@@ -1,17 +1,10 @@
 # Jacob Shen
 
-Personal website for Jacob Shen, a Lead Machine Learning Engineer working on production AI and machine-learning systems.
+Lead Machine Learning Engineer at Disney, building software and AI systems for growth, personalization, and commerce.
 
 **Website:** https://jacobshen18.github.io/
 
-## Areas
-
-- Machine learning systems
-- Personalization and recommendation
-- Search and ranking
-- Applied AI
-- Experimentation
-- ML infrastructure
+[LinkedIn](https://www.linkedin.com/in/jacobshen18/) · [GitHub](https://github.com/jacobshen18)
 
 ## Local preview
 
