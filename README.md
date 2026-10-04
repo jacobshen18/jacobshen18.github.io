@@ -1,17 +1,17 @@
 # Jacob Shen
 
-Personal website for Jacob Shen, a Lead Machine Learning Engineer focused on growth, personalization, commerce, and production AI systems.
+Personal website for Jacob Shen, a Lead Machine Learning Engineer working on production AI and machine-learning systems.
 
 **Website:** https://jacobshen18.github.io/
 
-## Focus areas
+## Areas
 
-- Growth and personalization ML
-- Recommendation, search, and ranking
-- User behavior and lifecycle modeling
-- Experimentation and decision systems
-- AI agents and production ML platforms
-- Real-time model serving and distributed ML systems
+- Machine learning systems
+- Personalization and recommendation
+- Search and ranking
+- Applied AI
+- Experimentation
+- ML infrastructure
 
 ## Local preview
 
